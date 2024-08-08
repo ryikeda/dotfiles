@@ -1,0 +1,13 @@
+import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
+
+[font]
+size = 16
+
+[font.normal]
+family = "Hack Nerd Font Mono"
+
+
+[window]
+decorations = "None"
+startup_mode = "Maximized"
+padding = { x = 2, y = 2 }
