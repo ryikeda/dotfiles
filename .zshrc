@@ -116,8 +116,6 @@ command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 
 
-# SML for Programming Languages course on Coursera, remove after done also brew uninstall smljj
-export PATH=/usr/local/smlnj/bin:"$PATH"
 
 eval "$(zoxide init --cmd cd zsh)"
 
